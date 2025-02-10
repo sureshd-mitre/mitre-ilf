@@ -190,3 +190,8 @@ For ILF, reducing the size of the event record is an important consideration. An
 
 The examples are in the directory [example_logs](./example_logs)
 
+## Public Release Information
+> [!NOTE]
+> Approved for Public Release; Distribution Unlimited. Public Release Case
+> Number 24-00845-18
+
