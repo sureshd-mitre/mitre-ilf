@@ -195,3 +195,5 @@ The examples are in the directory [example_logs](./example_logs)
 > Approved for Public Release; Distribution Unlimited. Public Release Case
 > Number 24-00845-18
 
+(c) 2024-2025 The MITRE Corporation. All rights reserved.
+
